@@ -2,13 +2,14 @@
 
 🎓 B.Tech Computer Science student at Tezpur University  
 
-💻 Passionate about Data Structures, Algorithms and Web Development.
+💻 Passionate about Data Structures, Algorithms,MAchine Learning and Fullstack Development.
 
 ## 🚀 Skills
 - C
+- C++
+- Python
 - JavaScript
 - React
-- Next.js
 - Node.js
 - Data Structures & Algorithms
 
@@ -18,8 +19,9 @@
 
 ## 📚 Currently Learning
 - Advanced Data Structures
+- Deep Learning
 - System Design
 - Backend Development
 
 ## 🌱 Career Goal
-To become a Software Development Engineer at a top tech company.
+To become  ML Engineer at a top tech company.
