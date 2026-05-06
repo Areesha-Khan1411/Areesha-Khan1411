@@ -2,7 +2,7 @@
 
 🎓 B.Tech Computer Science student at Tezpur University  
 
-💻 Passionate about Data Structures, Algorithms,MAchine Learning and Fullstack Development.
+💻 Passionate about Data Structures, Algorithms,Machine Learning and Fullstack Development.
 
 ## 🚀 Skills
 - C
